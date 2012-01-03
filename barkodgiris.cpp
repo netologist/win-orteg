@@ -1,0 +1,57 @@
+//---------------------------------------------------------------------------
+#include <vcl.h>
+#pragma hdrstop
+
+#include "barkodgiris.h"
+#include "hareket.h"
+#include "stoklist.h"
+#include "datamodule.h"
+//---------------------------------------------------------------------------
+#pragma package(smart_init)
+#pragma resource "*.dfm"
+TfrmBarkodGiris *frmBarkodGiris;
+//---------------------------------------------------------------------------
+__fastcall TfrmBarkodGiris::TfrmBarkodGiris(TComponent* Owner)
+    : TForm(Owner)
+{
+}
+//---------------------------------------------------------------------------
+
+void __fastcall TfrmBarkodGiris::FormShow(TObject *Sender)
+{
+    editBarkodNo->Clear();
+}
+//---------------------------------------------------------------------------
+
+void __fastcall TfrmBarkodGiris::editBarkodNoKeyPress(TObject *Sender,
+      char &Key)
+{
+    if (Key == Char(VK_RETURN))
+    {
+        Key = 0;
+
+        queryBARKOD->Close();
+        queryBARKOD->ParamByName("BARKOD_NO")->AsString = editBarkodNo->Text;
+        queryBARKOD->Open();
+
+        if (queryBARKOD->RecordCount > 0)
+        {
+            bStokCagirma = false; // KODA GÖRE GÝRÝÞ...
+
+            datamoduleORTEG->tblSTOKHAR->Insert();
+            datamoduleORTEG->tblSTOKHAR->Edit();
+            datamoduleORTEG->tblSTOKHARSTOK_KODU->Value = queryBARKODSTOK_KODU->Value;
+            datamoduleORTEG->tblSTOKHAR->Edit();
+            datamoduleORTEG->tblSTOKHAR->Post();
+            bKontrol = false;
+            editBarkodNo->Clear();
+            frmHareket->DBGrid1->SelectedIndex = hareketMIKTAR;
+
+            frmBarkodGiris->Close();
+        }
+        editBarkodNo->Clear();
+    }
+}
+//---------------------------------------------------------------------------
+
+

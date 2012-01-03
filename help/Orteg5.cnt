@@ -1,0 +1,27 @@
+:Base Orteg5.hlp
+1 Orteg5 Nedir?
+2 Ne iþe yarar...=ID_NE_ISE_YARAR
+2 Orteg5 Kullaným Rehberi
+3 Ana Menü=ID_ANA_MENU
+3 Kartlar
+4 Stok Kartý=ID_STOK_KARTI
+4 Firma Kartý=ID_FIRMA_KARTI
+4 Ünite Kartý=ID_UNITE_KARTI
+3 Hareketler
+4 Genel Hareket Ekraný=ID_GENEL_HAREKET
+4 Ýç Daðýtým ve Otomatik Fiyatlandýrma Ekraný=ID_IC_DAGITIM
+3 Raporlar
+4 Kiler Kayýt Kartý=ID_KILER_KAYIT_KARTI
+4 Depo [Giriþ/Çýkýþ] Defteri=ID_DEPO_DEFTERI
+4 Günlük Hareket Raporu=ID_GUNLUK_HAREKET_RAPORU
+4 Sayým Raporlarý
+5 Sayým Raporu=ID_SAYIM_RAPORU
+5 Detaylý Sayým Raporu=ID_DETAYLI_SAYIM_RAPORU
+3 Ayarlar
+4 Sezon Seçimi=ID_SEZON_SECIMI
+4 Genel Parametreler=ID_GENEL_PARAMETRELER
+4 Tanýmlamalar
+5 Birim Tanýmlama=ID_BIRIM_TANIMLAMA
+5 Kýsým Amiri Tanýmlama=ID_PERSONEL_TANIMLAMA
+5 Cinsi Tanýmlama=ID_CINSI_TANIMLAMA
+5 Dönem Tanýmlama=ID_DONEM_TANIMLAMA

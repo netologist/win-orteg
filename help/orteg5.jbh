@@ -1,0 +1,566 @@
+JBHFILEVERSION
+3
+Orteg5
+14941692
+8014384
+150
+150
+600
+600
+26
+Orteg5 Nedir?
+Orteg5 Nedir?
+
+TRUE
+	Ne iþe yarar...
+Ne iþe yarar...
+Ne ise yarar...
+FALSE
+	Orteg5 Kullaným Rehberi
+Orteg5 Kullaným Rehberi
+
+TRUE
+		Ana Menü
+Ana Menü
+Ana Menü
+FALSE
+		Kartlar
+Kartlar
+
+TRUE
+			Stok Kartý
+Stok Kartý
+Stok Kartý
+FALSE
+			Firma Kartý
+Firma Kartý
+Firma Kartý
+FALSE
+			Ünite Kartý
+Ünite Kartý
+Ünite Kartý
+FALSE
+		Hareketler
+Hareketler
+
+TRUE
+			Genel Hareket Ekraný
+Genel Hareket Ekraný
+Genel Hareket
+FALSE
+			Ýç Daðýtým ve Otomatik Fiyatlandýrma Ekraný
+Ýç Daðýtým ve Otomatik Fiyatlandýrma Ekraný
+Ic Dagitim
+FALSE
+		Raporlar
+Raporlar
+
+TRUE
+			Kiler Kayýt Kartý
+Kiler Kayýt Kartý
+Kiler Kayýt Kartý
+FALSE
+			Depo [Giriþ/Çýkýþ] Defteri
+Depo [Giriþ/Çýkýþ] Defteri
+Depo Defteri
+FALSE
+			Günlük Hareket Raporu
+Günlük Hareket Raporu
+Günlük Hareket
+FALSE
+			Sayým Raporlarý
+Sayým Raporlarý
+
+TRUE
+				Sayým Raporu
+Sayým Raporu
+Sayým Raporu
+FALSE
+				Detaylý Sayým Raporu
+Detaylý Sayým Raporu
+Detaylý Sayým Raporu
+FALSE
+		Ayarlar
+Ayarlar
+
+TRUE
+			Sezon Seçimi
+Sezon Seçimi
+Sezon Seçimi
+FALSE
+			Genel Parametreler
+Genel Parametreler
+Genel Parametreler
+FALSE
+			Tanýmlamalar
+Tanýmlamalar
+
+TRUE
+				Birim Tanýmlama
+Birim Tanýmlama
+Birim Tanýmlama
+FALSE
+				Kýsým Amiri Tanýmlama
+Kýsým Amiri Tanýmlama
+Personel Tanýmlama
+FALSE
+				Cinsi Tanýmlama
+Cinsi Tanýmlama
+Cinsi Tanýmlama
+FALSE
+				Dönem Tanýmlama
+Dönem Tanýmlama
+Dönem Tanýmlama
+FALSE
+18
+Ne ise yarar...
+1
+ID_NE_ISE_YARAR
+Ne ise yarar
+orteg; okos; hasan; ÖZGAN;
+28
+{\rtf1\ansi\ansicpg1254\deff0\deflang1055{\fonttbl{\f0\fnil Arial;}{\f1\fnil\fcharset0 OnStage;}{\f2\fswiss\fcharset162 Tahoma;}{\f3\fnil\fcharset162{\*\fname Arial;}Arial TUR;}{\f4\fnil\fcharset0 Comic Sans MS;}{\f5\fnil\fcharset162 Comic Sans MS;}}
+{\colortbl ;\red0\green0\blue0;\red0\green128\blue0;\red0\green0\blue128;\red0\green0\blue255;\red128\green0\blue0;\red255\green0\blue0;}
+\viewkind4\uc1\pard\qc\cf1\f0\fs20 
+\par \cf2\ul\protect #graphics\\anaekran.bmp#\cf1\ulnone  \protect0 
+\par \cf3\b\f1\fs32 ORTEG 2002 v.5\f2 .00\f1 -1\cf4 
+\par \cf1\b0\f3\fs20 
+\par 
+\par \pard\tab Orteg2002 v.5.00-1 Program\'fd Depo takip sitemidir. \cf5\i Side Jandarma \'d6zel E\'f0itim Merkezi Komutanl\'fd\'f0\'fd\cf6  \cf1\i0 i\'e7in \'f6zel olarak haz\'fdrlanm\'fd\'fet\'fdr. Program stok kartlar\'fdn\'fd ilk giren ilk \'e7\'fdkan y\'f6ntemine g\'f6re takip eder. Malzemenin yeni al\'fd\'fe fiyat\'fdndan nekadar miktar geldi\'f0ini hesaplar. 
+\par \tab 
+\par \tab Program\'fdn i\'e7inde Stok, Firma ve \'dcnitelerin hareketlerini detayl\'fd bir \'feekilde g\'f6rmenizi sa\'f0lar. Stok kart\'fdnda iki ayr\'fd fiyat tutabilirsiniz. \'dcnite k\'fdsm\'fdnda \'fcnitenin ba\'fe\'fdndaki Ks.A.'ni de\'f0i\'fetirebilirsiniz. Firma Kart\'fdnda yetkililerini kadar firmalar\'fdn t\'fcm bilgilerini kay\'fdtlarda tutabilir. Ve Gerekirse firmaya fatura edebilirsiniz.
+\par 
+\par \tab Raporlar, b\'f6l\'fcm\'fcnde Kiler Kay\'fdt Kart\'fd, G\'fcnl\'fck Hareket Raporu, Say\'fdm Raporu, Detayl\'fd Say\'fdm Raporu, Depo [Giri\'fe/\'c7\'fdk\'fd\'fe] Defteri bilgilerini g\'f6rebilirsiniz. \'dd\'e7 Da\'f0t\'fdm, Fatura, Temizlik tutana\'f0\'fdn\'fd buradan \'e7\'fdkt\'fd alabilrisiniz...
+\par 
+\par \tab Ayarlar b\'f6l\'fcm\'fcnde, d\'f6nem tan\'fdmlamalar\'fd verip, d\'f6nem aralar\'fdn\'fd istedi\'f0iniz \'feekilde tan\'fdmlayabilirsiniz. Personel tan\'fdmlamalar\'fd yapabilir. Ve temizlik tutanaklar\'fdn\'fdn i\'e7da\'f0\'fdt\'fdm\'fd hangi firmaya \'e7\'fdkar hepsi sistemde g\'f6z\'fckmektedir.
+\par 
+\par \tab Di\'f0er b\'f6l\'fcmler hakk\'fdnda bilgi almak i\'e7in \cf2\ul\protect ##ANAMENU##\cf1\ulnone  \protect0 e t\'fdklay\'fdn
+\par 
+\par \pard\qc\cf2\ul\protect #graphics\\logo.bmp#\cf1\ulnone  \protect0 
+\par \b\f4\fs16 OKos SOFTWARE YAZILIM ve G\f5\'dc\f4 VENL\f5\'dd\f4 K 
+\par H\f5\'dd\f4 ZMETLER\f5\'dd\f4  L\f5\'dd\f4 M\f5\'dd\f4 TED \f5\'de\'dd\f4 RKET\f5\'dd
+\par \cf2\ul\b0\protect ##WEB##\cf1\ulnone  \protect0 
+\par \cf2\ul\protect ##eposta##\cf1\ulnone\b  \protect0 
+\par 
+\par PROGRAMLAYAN
+\par \b0 Hasan \'d6ZGAN ( Yaz\'fdl\'fdm M\'fchendisi )
+\par 2001 - 2003 (c) copyright
+\par \cf2\ul\protect\f4 
+\par }
+4
+{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset0 GrenobleLH;}}
+{\colortbl ;\red255\green255\blue255;}
+\viewkind4\uc1\pard\cf1\lang1055\b\f0\fs32 PROGRAM VE FIRMA HAKKINDA
+\par }
+3
+WEB
+1
+www.okos.programlari.com
+www.okos.programlari.com
+FALSE
+eposta
+2
+hozgan@programmer.net
+hozgan@programmer.net
+FALSE
+ANAMENU
+0
+Ana Menü
+Ýndeks
+FALSE
+2
+graphics\anaekran.bmp
+graphics\logo.bmp
+Ana Menü
+2
+ID_ANA_MENU
+Ana Menü
+Stok; Firma; Ünite; Hareket; Ýç Daðýtým
+18
+{\rtf1\ansi\ansicpg1254\deff0\deflang1055{\fonttbl{\f0\fnil Arial;}{\f1\fnil\fcharset162{\*\fname Arial;}Arial TUR;}}
+{\colortbl ;\red0\green0\blue0;\red0\green128\blue0;}
+\viewkind4\uc1\pard\cf1\f0\fs20 
+\par \pard\qc\cf2\ul\protect #graphics\\anaekran.bmp#\cf1\ulnone  \protect0 
+\par 
+\par 
+\par \pard\cf2\ul\protect\f1 ##STOK_KARTI##\cf1\ulnone  \protect0\tab\tab 
+\par \cf2\ul\protect ##FIRMA_KARTI##\cf1\ulnone  \protect0\tab\tab 
+\par \cf2\ul\protect ##UNITE_KARTI##\cf1\ulnone  \protect0 
+\par 
+\par \cf2\ul\protect ##GENEL_HAREKET##\cf1\ulnone  \protect0 
+\par \cf2\ul\protect ##IC_DAGITIM_HAZIRLAMA##\cf1\ulnone  \protect0\tab\tab 
+\par \cf2\ul\protect ##HAKKINDA##\cf1\ulnone  \protect0 
+\par 
+\par 
+\par 
+\par \f0 
+\par }
+4
+{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset0 HandelGothic;}{\f1\fnil\fcharset162{\*\fname Arial;}Arial TUR;}{\f2\fnil Arial;}}
+{\colortbl ;\red255\green255\blue255;}
+\viewkind4\uc1\pard\cf1\lang1055\f0\fs32 ORTEG2002 v.5.00-16 YARDIM MOD\f1\'dc\f0 L\f1\'dc\cf0\f2\fs20 
+\par }
+6
+STOK_KARTI
+0
+Stok Kartý
+STOK KARTI
+FALSE
+FIRMA_KARTI
+0
+Firma Kartý
+FÝRMA KARTI
+FALSE
+UNITE_KARTI
+0
+Ünite Kartý
+ÜNÝTE KARTI
+FALSE
+GENEL_HAREKET
+0
+Genel Hareket
+GENEL HAREKET EKRANI
+FALSE
+IC_DAGITIM_HAZIRLAMA
+0
+Ic Dagitim
+IÇ DAÐITIM HAZIRLAMA
+FALSE
+HAKKINDA
+0
+Ne ise yarar...
+HAKKINDA....
+FALSE
+5
+graphics\anaekran.bmp
+graphics\stok.bmp
+graphics\firma.bmp
+graphics\hareket.bmp
+graphics\icdagitim.bmp
+Stok Kartý
+3
+ID_STOK_KARTI
+Stok Kartý
+stok; kart; stok kartý;
+20
+{\rtf1\ansi\ansicpg1254\deff0\deflang1055{\fonttbl{\f0\fnil Arial;}{\f1\fnil\fcharset162{\*\fname Arial;}Arial TUR;}}
+{\colortbl ;\red0\green0\blue0;\red0\green128\blue0;}
+\viewkind4\uc1\pard\cf1\f0\fs20 
+\par \pard\qc\cf2\ul\protect #graphics\\stokkarti.bmp#\cf1\ulnone  \protect0 
+\par 
+\par \pard\f1 Stok tan\'fdmlamalar\'fd burada yap\'fdl\'fdr. Bir malzemeyi kaydetme mant\'fd\'f0\'fd \'e7ok basittir. Program\'fdn \'fcst k\'fdsm\'fdndaki ara\'e7 \'e7ubu\'f0unda yap\'fdlacak i\'felemlerin simgeleri bulunmaktad\'fdr.
+\par 
+\par Yeni bir belge a\'e7mak i\'e7in; ara\'e7 \'e7ubu\'f0undaki bo\'fe beyaz sayfa simgesine \cf2\ul\protect #graphics\\YENI.BMP#\cf1\ulnone  \protect0  t\'fdklan\'fdr. Stok Kodunu program kendisi verir. Fakat istenirse stok kodunu elle de\'f0i\'fetirebilirsiniz. Cinsi; bu k\'fds\'fdm sayesinde malzemeyi bir gruba dahil edebilirsiniz. Stok ad\'fd k\'fdsm\'fd stok tan\'fdmlamas\'fd yap\'fdlan k\'fds\'fdmd\'fdr. Burada [F\'ddRMA_ADI] [MALZEME CINSI] [\'dcR\'dcN ADI] [varsa AGIRLIGI] [ve D\'ddGER] bilgileri bi\'e7iminde yaz\'fdl\'fdr. 
+\par \'d6rne\'f0in: [KOM\'ddL\'dd] [ZEYT\'ddNYA\'d0I] [R\'ddV\'ddERA] [1 LT] \'feeklinde olmal\'fdd\'fdr.
+\par \f0 
+\par \f1 Program iki adet birim tutmaktad\'fdr. Tekli ve Paket mant\'fd\'f0\'fdnda kullan\'fdlmak \'fczere. \'ddkinci Birim tan\'fdmlamas\'fdn\'fdn hemen alt\'fdnda birim katsay\'fds\'fd bulunmaktad\'fdr. 
+\par 
+\par Girdi\'f0iniz bu kayd\'fd kaydetmek i\'e7in disket \'feeklinde, kahve renginde olan simge \cf2\ul\protect #graphics\\KAYDET.BMP#\cf1\ulnone  \protect0  se\'e7ilir. Ve kay\'fdt i\'felemi tamamlan\'fdr.
+\par 
+\par Kayd\'fd silmek istedi\'f0iniz de yap\'fdlacak i\'felem \'e7arp\'fd \'feeklindeki siyah \cf2\ul\protect #graphics\\SIL.BMP#\cf1\ulnone  \protect0  simge t\'fdklan\'fdr. Ve silme i\'felemi onay sorusuna evet cevab\'fd verilerek veri silinir.
+\par 
+\par Eski kay\'fdd\'fd a\'e7mak ve de\'f0i\'fetirmek i\'e7in sar\'fd klas\'f6r \'feeklindeki \cf2\ul\protect #graphics\\AC.BMP#\cf1\ulnone  \protect0  simge t\'fdklan\'fdr. Ve a\'fea\'f0\'fdda g\'f6rd\'fc\'f0\'fcn\'fcz pencereden se\'e7im yap\'fdl\'fdr. Ve \'fczerinde gerekli de\'f0i\'feiklikler yap\'fdl\'fdr.
+\par 
+\par \pard\qc\cf2\ul\protect #graphics\\stoklist.bmp#\cf1\ulnone  \protect0\f0 
+\par }
+4
+{\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 HandelGothic;}{\f1\fnil Arial;}}
+{\colortbl ;\red255\green255\blue255;}
+\viewkind4\uc1\pard\cf1\lang1055\b\f0\fs32 STOK KARTI\cf0\b0\f1\fs20 
+\par }
+0
+6
+graphics\stokkarti.bmp
+graphics\stoklist.bmp
+graphics\YENI.BMP
+graphics\KAYDET.BMP
+graphics\SIL.BMP
+graphics\AC.BMP
+Firma Kartý
+4
+ID_FIRMA_KARTI
+Firma Kartý
+firma;kart;firma kartý
+10
+{\rtf1\ansi\ansicpg1254\deff0\deflang1055{\fonttbl{\f0\fnil Arial;}{\f1\fnil\fcharset162{\*\fname Arial;}Arial TUR;}}
+{\colortbl ;\red0\green0\blue0;\red0\green128\blue0;}
+\viewkind4\uc1\pard\cf1\f0\fs20 
+\par \pard\qc\cf2\ul\protect #graphics\\firmakarti.bmp#\cf1\ulnone  \protect0 
+\par 
+\par 
+\par \pard\f1 Bu b\'f6l\'fcmde kay\'fdt etme i\'felemleri stok kart\'fdndaki i\'felemlerin ayn\'fds\'fdd\'fdr. Sadece tek fark yetkili diye adland\'fdr\'fdlan bir girdi yerinin daha olmas\'fdd\'fdr. Bu biglilerin tam doldurulmas\'fd fatura d\'f6k\'fcm\'fcnde bilgilerin eksiksiz olarak yerle\'fetirilmesini sa\'f0layacakt\'fdr.
+\par 
+\par \pard\qc\cf2\ul\protect #graphics\\firmalist.bmp#\cf1\ulnone  \protect0\f0 
+\par }
+4
+{\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 HandelGothic;}{\f1\fnil Arial;}}
+{\colortbl ;\red255\green255\blue255;}
+\viewkind4\uc1\pard\cf1\lang1055\b\f0\fs36 FIRMA KARTI\cf0\b0\f1\fs20 
+\par }
+0
+2
+graphics\firmakarti.bmp
+graphics\firmalist.bmp
+Ünite Kartý
+5
+ID_UNITE_KARTI
+Ünite Kartý
+ünite;kart;ünite kartý;
+10
+{\rtf1\ansi\ansicpg1254\deff0\deflang1055{\fonttbl{\f0\fnil Arial;}{\f1\fnil\fcharset162{\*\fname Arial;}Arial TUR;}}
+{\colortbl ;\red0\green0\blue0;\red0\green128\blue0;}
+\viewkind4\uc1\pard\qc\cf1\f0\fs20 
+\par \cf2\ul\protect #graphics\\unitekarti.bmp#\cf1\ulnone  \protect0 
+\par 
+\par \pard\f1 Side Jandarma Kamp\'fdndaki t\'fcm \'fcnitelerin tan\'fdmlamalamar\'fd ve hareket detaylar\'fd burada g\'f6r\'fcl\'fcr.
+\par Yeni bir \'fcnite tan\'fdmlarken unite ad\'fd girildikten sonra \i ENTER\i0  tu\'feuna mutlaka tu\'felanmas\'fd gerekir. Girilen verinin kabul edildi\'f0ini anlamak i\'e7in mavi olan renk sar\'fdmt\'fdrak bir hal al\'fdr. TABLDOT isminde \'fcnite asla silinmemelidir. Ve bu isimde de\'f0i\'feiklik yap\'fdlamaz.
+\par 
+\par Ayr\'fdca her \'fcnitenin yetkili k\'fds\'fdm amiri burada tan\'fdml\'fdd\'fdr..... \f0 
+\par }
+4
+{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset0 HandelGothic;}{\f1\fnil Arial;}}
+{\colortbl ;\red255\green255\blue255;}
+\viewkind4\uc1\pard\cf1\lang1055\f0\fs32 UNITE KARTI\cf0\f1\fs20 
+\par }
+0
+1
+graphics\unitekarti.bmp
+Genel Hareket
+6
+ID_GENEL_HAREKET
+Genel Hareket Ekraný
+Ýade; Dönem; Tarih; Firma; Ünite; Butonlar; Temizlik; Hareket;
+45
+{\rtf1\ansi\ansicpg1254\deff0\deflang1055{\fonttbl{\f0\fnil\fcharset162{\*\fname Arial;}Arial TUR;}{\f1\fnil Arial;}}
+{\colortbl ;\red0\green0\blue0;\red0\green128\blue0;\red0\green0\blue128;\red128\green0\blue0;}
+\viewkind4\uc1\pard\cf1\b\f0\fs20 
+\par \pard\qc\cf2\ul\b0\protect #graphics\\hareketekrani.bmp#\cf1\ulnone\b  \protect0 
+\par \pard 
+\par \cf3\'dcST MEN\'dc: \cf1 
+\par \b0 Kay\'fdt girerken mutlaka pencerenin \'fcst b\'f6lmesindeki bilgileri girmeniz gerekmektedir. 
+\par \b 
+\par \tab\cf4 D\'f6nem\cf1\b0\tab\tab\tab Girdi\'f0iniz tarihe g\'f6re de\'f0i\'feir.
+\par 
+\par \b\tab\cf4 Tarih\cf1\b0\tab\tab\tab Kay\'fdt tarihi burada girilir.
+\par 
+\par \b\tab\cf4 Firma / \'dcnite\cf1\tab\tab\b0 Bu radyobutonu Firma veya \'dcnite se\'e7imi i\'e7in editbox\'fd d\'fczenler.
+\par 
+\par \tab\cf4\b Hareket T\'fcr\'fc \tab\cf1\b0\tab CIKTI, GIRDI, TEMIZLIK olmak \'fczere \'fc\'e7 hareket t\'fcr\'fc vard\'fdr. 
+\par \tab\tab\tab\tab Ve program bu se\'e7ime g\'f6re yapmak istedi\'f0iniz i\'felemi alg\'fdlar.
+\par \tab\tab\tab\tab E\'f0er hareket t\'fcr\'fc GIRDI ve i\'felem yap\'fdlanda UNITE ise bu anakilere iade
+\par \tab\tab\tab\tab anlam\'fdna gelir.
+\par 
+\par \b\tab\cf4 Butonlar\cf1\tab\tab\b0 Yeni, Kaydet, Sil, Ba\'f0lant\'fd Sil, A\'e7, Fiyat Tespit, Fiyat Tablosu ve 
+\par \tab\tab\tab\tab\'ddade Tablosudur.\b 
+\par \tab\tab\b0 
+\par 
+\par \cf3\b HAREKET \'dd\'deLEM\'dd:\cf1\b0 
+\par Bir stok kalemi girmek i\'e7in Cinsi k\'fdsm\'fdna girilmek istenen sto\'f0un ad\'fd yaz\'fdl\'fdr. Sto\'f0un ad\'fdn\'fd bilmiyorsan\'fdz sadece ana k\'fdsm\'fdn\'fd '%' y\'fczde i\'feareti aras\'fdna alarak arama yapabilirsiniz. \'ddstersenizde ctrl+o tu\'feu ile stok listesindende se\'e7im ve arama yapabilirsiniz.
+\par Daha sonra miktar k\'fdsm\'fd girilir. Al\'fd\'fe Fiyat\'fdn\'fd girdi\'f0inizde program sat\'fd\'fe fiyat\'fdn\'fd kendisi hesaplar.
+\par 
+\par \cf3\b FATURA G\'ddR\'dd\'de\'dd YAPMAK:\cf1\b0  
+\par Fatura girmek i\'e7in yap\'fdlmas\'fd gereken, hareket t\'fcr\'fcnden GIRDI ve radyoboxtan da FIRMA se\'e7ilir. Geri kalan hareket i\'feleminin ayn\'fds\'fdd\'fdr.\b 
+\par 
+\par \cf3 F\'ddRMAYA \'ddADE YAPMAK:\cf1  
+\par \b0 Firmaya iade yapmak i\'e7in yap\'fdlmas\'fd gereken, hareket t\'fcr\'fcnden CIKTI ve radyoboxtan da FIRMA se\'e7ilir. Geri kalan hareket i\'feleminin ayn\'fds\'fdd\'fdr.
+\par Firmaya iade yaparken \'f6nceki giri\'felerine bak\'fdlarak iade i\'felemi yap\'fdl\'fdr.
+\par 
+\par \cf3\b\'dcN\'ddTEYE \'c7IKI\'de YAPMAK:\cf1  
+\par \b0\'dcniteye mal \'e7\'fdk\'fd\'fe\'fd yapmak i\'e7in gereken, hareket t\'fcr\'fcnden CIKTI ve radyoboxtan da UNITE se\'e7ilmesi yeterlidir. Geri kalan hareket i\'feleminin ayn\'fds\'fdd\'fdr. E\'f0er fiyatlar bilinmiyorsa fiyat k\'fds\'fdmlar\'fd bo\'fe b\'fdrak\'fdlabilir. \'dd\'e7 da\'f0\'fdt\'fdm haz\'fdrlarken fiyatlar otomatik olarak doldurulacakt\'fdr. 
+\par 
+\par \pard\qc\cf2\ul\protect #graphics\\fiyattablosu.bmp#\cf1\ulnone  \protect0 
+\par \pard\b 
+\par \cf3\'dcN\'ddTEDEN \'ddADE ALMAK:\cf1  
+\par \b0\'dcniteden mal iadesi almak i\'e7in gereken, hareket t\'fcr\'fcnden GIRDI ve radyoboxtan da UNITE se\'e7ilmesi gerekmektedir. Geri kalan hareket i\'feleminin ayn\'fds\'fdd\'fdr. \'dcniteden iade al\'fdrken bu k\'fds\'fdmlar\'fd bo\'fe b\'fdrakabilirsiniz. Program i\'e7da\'f0\'fdt\'fdm\'fdn\'fd haz\'fdrlarken bu k\'fds\'fdmlar\'fd otomatik olarak hesapland\'fdracakt\'fdr.
+\par \f1 
+\par \cf3\b\f0 TEM\'ddZL\'ddK \'c7IKI\'deI YAPMAK:\cf1  
+\par \b0\'dcniteye temizlik maddesi \'e7\'fdkmak i\'e7in gereken, hareket t\'fcr\'fcnden TEMIZLIK ve radyoboxtan da UNITE se\'e7ilmesi gerekmektedir. Geri kalan hareket i\'feleminin ayn\'fds\'fdd\'fdr.\f1 
+\par }
+4
+{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset0 HandelGothic;}{\f1\fnil Arial;}}
+{\colortbl ;\red255\green255\blue255;}
+\viewkind4\uc1\pard\cf1\lang1055\b\f0\fs32 GENEL HAREKET EKRANI\cf0\b0\f1\fs20 
+\par }
+0
+2
+graphics\hareketekrani.bmp
+graphics\fiyattablosu.bmp
+Ic Dagitim
+7
+ID_IC_DAGITIM
+Ýç Daðýtým Ekraný
+
+19
+{\rtf1\ansi\ansicpg1254\deff0\deflang1055{\fonttbl{\f0\fnil Arial;}{\f1\fnil\fcharset238{\*\fname Arial;}Arial CE;}{\f2\fnil\fcharset162{\*\fname Arial;}Arial TUR;}{\f3\fnil\fcharset0 Arial;}}
+{\colortbl ;\red0\green0\blue0;\red0\green128\blue0;}
+\viewkind4\uc1\pard\qc\cf1\f0\fs20 
+\par \cf2\ul\protect #graphics\\ic_dagitim.bmp#\cf1\ulnone  \protect0 
+\par 
+\par \pard\f1\u304?\f2\'e7 da\'f0\'fdt\'fdm b\'f6l\'fcm\'fcde hareket ekran\'fdn\'fdn ayn\'fds\'fdd\'fdr. Tek fark\'fd burada girilen kay\'fdtlar bir bak\'fdma onaylkan\'fdr ve resmiyete kat\'fdl\'fdr. Ve numaraland\'fdr\'fdl\'fdr. Numaraland\'fdrma i\'felemi otomatiktir. Program\'fdn bu k\'fdsm\'fd \'e7ok ak\'fdll\'fdca i\'feler. Bir\'e7ok hesaplama ve iade kontrol\'fc gibi i\'felemler burada yap\'fdl\'fdr. 
+\par 
+\par \b YEN\'dd \'dd\'c7 DA\'d0ITIM:
+\par \b0 Yeni i\'e7da\'f0\'fdt\'fdm girmek i\'e7in yap\'fdlmas\'fd gerek tek \'feey, \'fcst men\'fcden hangi firma yada \'fcnitenin; hangi hareketi isteniyorsa o se\'e7ilmelidir. \'ddADE, G\'ddRD\'dd, \'c7IKTI, TEM\'ddZL\'ddK, program buna gerekli i\'felemi otomatik olarak yapacakt\'fdr.
+\par Se\'e7im yap\'fdld\'fdktan sonra ucu sa\'f0 tarafa bakan ye\'feil \'fc\'e7gen \cf2\ul\protect #graphics\\run.bmp#\cf1\ulnone  \protect0  simgesine bas\'fdl\'fdr. Ve i\'e7 da\'f0\'fdt\'fdm olu\'feturulur.
+\par 
+\par 
+\par \b ESK\'dd \'dd\'c7 DA\'d0ITIM:\b0 
+\par Eski i\'e7 da\'f0\'fd\'fdt\'fdma ek yapabilirsiniz. Program bunu destekler. Eski i\'e7da\'f0\'fdt\'fdm\'fd se\'e7mek i\'e7in sar\'fd klas\'f6r \'feeklindeki \cf2\ul\protect #graphics\\AC.BMP#\cf1\ulnone  \protect0\f3  \f2 simge se\'e7ilir. Sonra ise ekrana a\'fea\'f0\'fddaki pencere gelir ve istenilen sorgulamadan se\'e7im yap\'fdl\'fdr.
+\par \pard\qc\cf2\ul\protect #graphics\\icdagitimlist.bmp#\cf1\ulnone  \protect0\f0 
+\par 
+\par 
+\par 
+\par }
+4
+{\rtf1\ansi\deff0{\fonttbl{\f0\fnil\fcharset0 HandelGothic;}{\f1\fnil Arial;}}
+{\colortbl ;\red255\green255\blue255;}
+\viewkind4\uc1\pard\cf1\lang1055\b\f0\fs32 IC DAGITIM HAZIRLAMA\cf0\b0\f1\fs20 
+\par }
+0
+4
+graphics\run.bmp
+graphics\AC.BMP
+graphics\icdagitimlist.bmp
+graphics\ic_dagitim.bmp
+Kiler Kayýt Kartý
+8
+ID_KILER_KAYIT_KARTI
+Kiler Kayýt Kartý
+
+4
+{\rtf1\ansi\ansicpg1254\deff0\deflang1055{\fonttbl{\f0\fnil Arial;}}
+{\colortbl ;\red0\green0\blue0;}
+\viewkind4\uc1\pard\cf1\f0\fs20 
+\par }
+0
+0
+0
+Depo Defteri
+9
+ID_DEPO_DEFTERI
+Depo Defteri
+
+4
+{\rtf1\ansi\ansicpg1254\deff0\deflang1055{\fonttbl{\f0\fnil Arial;}}
+{\colortbl ;\red0\green0\blue0;}
+\viewkind4\uc1\pard\cf1\f0\fs20 
+\par }
+0
+0
+0
+Günlük Hareket
+10
+ID_GUNLUK_HAREKET_RAPORU
+Günlük Hareket Raporu
+
+4
+{\rtf1\ansi\ansicpg1254\deff0\deflang1055{\fonttbl{\f0\fnil Arial;}}
+{\colortbl ;\red0\green0\blue0;}
+\viewkind4\uc1\pard\cf1\f0\fs20 
+\par }
+0
+0
+0
+Sayým Raporu
+11
+ID_SAYIM_RAPORU
+Sayum Raporu
+
+4
+{\rtf1\ansi\ansicpg1254\deff0\deflang1055{\fonttbl{\f0\fnil Arial;}}
+{\colortbl ;\red0\green0\blue0;}
+\viewkind4\uc1\pard\cf1\f0\fs20 
+\par }
+0
+0
+0
+Detaylý Sayým Raporu
+12
+ID_DETAYLI_SAYIM_RAPORU
+Detaylý Sayým Raporu
+
+4
+{\rtf1\ansi\ansicpg1254\deff0\deflang1055{\fonttbl{\f0\fnil Arial;}}
+{\colortbl ;\red0\green0\blue0;}
+\viewkind4\uc1\pard\cf1\f0\fs20 
+\par }
+0
+0
+0
+Sezon Seçimi
+13
+ID_SEZON_SECIMI
+Sezon Seçimi
+
+4
+{\rtf1\ansi\ansicpg1254\deff0\deflang1055{\fonttbl{\f0\fnil Arial;}}
+{\colortbl ;\red0\green0\blue0;}
+\viewkind4\uc1\pard\cf1\f0\fs20 
+\par }
+0
+0
+0
+Genel Parametreler
+14
+ID_GENEL_PARAMETRELER
+Genel Parametreler
+
+4
+{\rtf1\ansi\ansicpg1254\deff0\deflang1055{\fonttbl{\f0\fnil Arial;}}
+{\colortbl ;\red0\green0\blue0;}
+\viewkind4\uc1\pard\cf1\f0\fs20 
+\par }
+0
+0
+0
+Birim Tanýmlama
+15
+ID_BIRIM_TANIMLAMA
+
+
+4
+{\rtf1\ansi\ansicpg1254\deff0\deflang1055{\fonttbl{\f0\fnil Arial;}}
+{\colortbl ;\red0\green0\blue0;}
+\viewkind4\uc1\pard\cf1\f0\fs20 
+\par }
+0
+0
+0
+Cinsi Tanýmlama
+16
+ID_CINSI_TANIMLAMA
+Cinsi Tanýmlama
+
+4
+{\rtf1\ansi\ansicpg1254\deff0\deflang1055{\fonttbl{\f0\fnil Arial;}}
+{\colortbl ;\red0\green0\blue0;}
+\viewkind4\uc1\pard\cf1\f0\fs20 
+\par }
+0
+0
+0
+Dönem Tanýmlama
+17
+ID_DONEM_TANIMLAMA
+Dönem Tanýmlama
+
+4
+{\rtf1\ansi\ansicpg1254\deff0\deflang1055{\fonttbl{\f0\fnil Arial;}}
+{\colortbl ;\red0\green0\blue0;}
+\viewkind4\uc1\pard\cf1\f0\fs20 
+\par }
+0
+0
+0
+Personel Tanýmlama
+18
+ID_PERSONEL_TANIMLAMA
+Personel Tanýmlama
+
+4
+{\rtf1\ansi\ansicpg1254\deff0\deflang1055{\fonttbl{\f0\fnil Arial;}}
+{\colortbl ;\red0\green0\blue0;}
+\viewkind4\uc1\pard\cf1\f0\fs20 
+\par }
+0
+0
+0
